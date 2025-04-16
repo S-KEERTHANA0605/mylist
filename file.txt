@@ -2,3 +2,6 @@ my to-do-list
 1.take a walk
 2.do exercise
 3.water the plants
+listen to songs
+study
+dance 
